@@ -1,0 +1,1 @@
+https://tutorials.eu/exploring-basic-kotlin-syntax-and-structure-day-2-android-14-masterclass/
